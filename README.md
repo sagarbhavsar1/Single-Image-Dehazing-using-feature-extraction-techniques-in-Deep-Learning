@@ -1,6 +1,10 @@
 # Single-Image-Dehazing-using-feature-extraction-techniques-in-Deep-Learning
 This is a novel methodology to perform dehazing process on a single outdoor Image using feature extraction techniques in Deep Learning and 3 added pre-processing steps.
 
+Dataset used for training and validation is SOTS outdoor [available here](https://www.kaggle.com/wwwwwee/dehaze).  
+
+Detailed explanation and documentation available here: 
+
 Follow the following steps to run the code:
 
 1. Download the image datasets from kaggle- link :-  https://www.kaggle.com/datasets/wwwwwee/dehaze 
