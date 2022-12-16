@@ -3,7 +3,7 @@ This is a novel methodology to perform dehazing process on a single outdoor Imag
 
 Dataset used for training and validation is SOTS outdoor [available here](https://www.kaggle.com/wwwwwee/dehaze).  
 
-Detailed explanation and documentation available here: 
+Detailed explanation and documentation available here: https://github.com/sagarbhavsar1/Single-Image-Dehazing-using-feature-extraction-techniques-in-Deep-Learning/blob/main/Final%20Report_Image_dehazing%20(3).pdf
 
 Follow the following steps to run the code:
 
